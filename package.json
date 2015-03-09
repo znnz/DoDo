@@ -1,0 +1,15 @@
+{
+  "name": "dodo",
+  "version": "0.1.0",
+  "description": "DoDo is app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "znnz",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.3.4",
+    "restify": "^2.8.5"
+  }
+}
